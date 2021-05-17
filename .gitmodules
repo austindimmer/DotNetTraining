@@ -13,3 +13,6 @@
 [submodule "ml.net-revealed"]
 	path = ml.net-revealed
 	url = https://github.com/austindimmer/ml.net-revealed.git
+[submodule "Hands-On-Machine-Learning-With-ML.NET"]
+	path = Hands-On-Machine-Learning-With-ML.NET
+	url = https://github.com/austindimmer/Hands-On-Machine-Learning-With-ML.NET.git
