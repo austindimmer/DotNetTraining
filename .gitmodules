@@ -1,3 +1,6 @@
 [submodule "concurrency-in-c-sharp-cookbook"]
 	path = concurrency-in-c-sharp-cookbook
 	url = https://resources.oreilly.com/examples/0636920266624.git
+[submodule "pro-c-sharp-9-w-.net-core-5"]
+	path = pro-c-sharp-9-w-.net-core-5
+	url = https://github.com/austindimmer/pro-c-sharp-9-w-.net-core-5.git
