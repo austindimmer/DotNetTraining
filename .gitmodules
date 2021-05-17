@@ -22,3 +22,6 @@
 [submodule "blazor-revealed"]
 	path = blazor-revealed
 	url = https://github.com/austindimmer/blazor-revealed.git
+[submodule "microsoft-blazor"]
+	path = microsoft-blazor
+	url = https://github.com/austindimmer/microsoft-blazor.git
