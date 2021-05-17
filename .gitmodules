@@ -19,3 +19,6 @@
 [submodule "Practical-Microservices-with-Dapr-and-.NET"]
 	path = Practical-Microservices-with-Dapr-and-.NET
 	url = https://github.com/austindimmer/Practical-Microservices-with-Dapr-and-.NET.git
+[submodule "blazor-revealed"]
+	path = blazor-revealed
+	url = https://github.com/austindimmer/blazor-revealed.git
