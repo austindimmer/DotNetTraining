@@ -16,3 +16,6 @@
 [submodule "Hands-On-Machine-Learning-With-ML.NET"]
 	path = Hands-On-Machine-Learning-With-ML.NET
 	url = https://github.com/austindimmer/Hands-On-Machine-Learning-With-ML.NET.git
+[submodule "Practical-Microservices-with-Dapr-and-.NET"]
+	path = Practical-Microservices-with-Dapr-and-.NET
+	url = https://github.com/austindimmer/Practical-Microservices-with-Dapr-and-.NET.git
