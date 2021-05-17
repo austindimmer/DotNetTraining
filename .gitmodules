@@ -1,0 +1,33 @@
+[submodule "concurrency-in-c-sharp-cookbook"]
+	path = concurrency-in-c-sharp-cookbook
+	url = https://resources.oreilly.com/examples/0636920266624.git
+[submodule "pro-c-sharp-9-w-.net-core-5"]
+	path = pro-c-sharp-9-w-.net-core-5
+	url = https://github.com/austindimmer/pro-c-sharp-9-w-.net-core-5.git
+[submodule "Software-Architecture-with-C-9-and-.NET-5"]
+	path = Software-Architecture-with-C-9-and-.NET-5
+	url = https://github.com/austindimmer/Software-Architecture-with-C-9-and-.NET-5.git
+[submodule "cs9dotnet5"]
+	path = cs9dotnet5
+	url = https://github.com/austindimmer/cs9dotnet5.git
+[submodule "ml.net-revealed"]
+	path = ml.net-revealed
+	url = https://github.com/austindimmer/ml.net-revealed.git
+[submodule "Hands-On-Machine-Learning-With-ML.NET"]
+	path = Hands-On-Machine-Learning-With-ML.NET
+	url = https://github.com/austindimmer/Hands-On-Machine-Learning-With-ML.NET.git
+[submodule "Practical-Microservices-with-Dapr-and-.NET"]
+	path = Practical-Microservices-with-Dapr-and-.NET
+	url = https://github.com/austindimmer/Practical-Microservices-with-Dapr-and-.NET.git
+[submodule "blazor-revealed"]
+	path = blazor-revealed
+	url = https://github.com/austindimmer/blazor-revealed.git
+[submodule "microsoft-blazor"]
+	path = microsoft-blazor
+	url = https://github.com/austindimmer/microsoft-blazor.git
+[submodule "exploring-blazor"]
+	path = exploring-blazor
+	url = https://github.com/austindimmer/exploring-blazor.git
+[submodule "WiX-3.6-A-Developer-s-Guide-to-Windows-Installer-XML"]
+	path = WiX-3.6-A-Developer-s-Guide-to-Windows-Installer-XML
+	url = https://github.com/austindimmer/WiX-3.6-A-Developer-s-Guide-to-Windows-Installer-XML.git
