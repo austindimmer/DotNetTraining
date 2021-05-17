@@ -10,3 +10,6 @@
 [submodule "cs9dotnet5"]
 	path = cs9dotnet5
 	url = https://github.com/austindimmer/cs9dotnet5.git
+[submodule "ml.net-revealed"]
+	path = ml.net-revealed
+	url = https://github.com/austindimmer/ml.net-revealed.git
