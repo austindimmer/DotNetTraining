@@ -25,3 +25,6 @@
 [submodule "microsoft-blazor"]
 	path = microsoft-blazor
 	url = https://github.com/austindimmer/microsoft-blazor.git
+[submodule "exploring-blazor"]
+	path = exploring-blazor
+	url = https://github.com/austindimmer/exploring-blazor.git
