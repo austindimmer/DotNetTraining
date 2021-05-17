@@ -1,0 +1,3 @@
+[submodule "concurrency-in-c-sharp-cookbook"]
+	path = concurrency-in-c-sharp-cookbook
+	url = https://resources.oreilly.com/examples/0636920266624.git
