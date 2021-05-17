@@ -28,3 +28,6 @@
 [submodule "exploring-blazor"]
 	path = exploring-blazor
 	url = https://github.com/austindimmer/exploring-blazor.git
+[submodule "WiX-3.6-A-Developer-s-Guide-to-Windows-Installer-XML"]
+	path = WiX-3.6-A-Developer-s-Guide-to-Windows-Installer-XML
+	url = https://github.com/austindimmer/WiX-3.6-A-Developer-s-Guide-to-Windows-Installer-XML.git
